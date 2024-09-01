@@ -29,7 +29,7 @@ const TopSection = () => {
             <p className="w-5/12 mt-10 text-white max-md:hidden">
               Sometimes, all it takes is getting one with nature to rejuvenate
               you and get work done better. Malshej Agro Tourism sets those
-              relaxing moments in motion with offerings of Peace.
+              relaxing moments in motion with offerings of Peace...
             </p>
             <h1 className="md:w-5/12 text-white"> and Farm</h1>
           </div>
